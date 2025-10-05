@@ -1,3 +1,4 @@
+import requests
 import os
 import sys
 import time
@@ -103,4 +104,5 @@ elif key == '3':
 
 else:
     print(Z + 'Invalid option selected.')
+
     
